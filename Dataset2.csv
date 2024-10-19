@@ -1,0 +1,65 @@
+Treatment,Day,Weight
+Control,D0,39
+Control,D0,34
+Control,D0,37
+Control,D0,35
+D_Non-diabetic treated,D0,39
+D_Non-diabetic treated,D0,43
+D_Non-diabetic treated,D0,35
+D_Non-diabetic treated,D0,38
+Diabetic control,D0,39
+Diabetic control,D0,42
+Diabetic control,D0,42
+Diabetic control,D0,41
+Diabetic treated,D0,41
+Diabetic treated,D0,26
+Diabetic treated,D0,42
+Diabetic treated,D0,36
+Control,D7,41
+Control,D7,38
+Control,D7,42
+Control,D7,39
+D_Non-diabetic treated,D7,41
+D_Non-diabetic treated,D7,48
+D_Non-diabetic treated,D7,37
+D_Non-diabetic treated,D7,39
+Diabetic control,D7,39
+Diabetic control,D7,41
+Diabetic control,D7,42
+Diabetic control,D7,38
+Diabetic treated,D7,51
+Diabetic treated,D7,25
+Diabetic treated,D7,42
+Diabetic treated,D7,38
+Control,D14,42
+Control,D14,40
+Control,D14,41
+Control,D14,40
+D_Non-diabetic treated,D14,41
+D_Non-diabetic treated,D14,49
+D_Non-diabetic treated,D14,36
+D_Non-diabetic treated,D14,39
+Diabetic control,D14,39
+Diabetic control,D14,41
+Diabetic control,D14,39
+Diabetic control,D14,42
+Diabetic treated,D14,53
+Diabetic treated,D14,25
+Diabetic treated,D14,41
+Diabetic treated,D14,38
+Control,D21,41
+Control,D21,41
+Control,D21,42
+Control,D21,42
+D_Non-diabetic treated,D21,42
+D_Non-diabetic treated,D21,42
+D_Non-diabetic treated,D21,37
+D_Non-diabetic treated,D21,40
+Diabetic control,D21,39
+Diabetic control,D21,39
+Diabetic control,D21,40
+Diabetic control,D21,41
+Diabetic treated,D21,54
+Diabetic treated,D21,22
+Diabetic treated,D21,40
+Diabetic treated,D21,36

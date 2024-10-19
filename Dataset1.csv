@@ -1,0 +1,33 @@
+Treatment,Treatments,Time ,Glucose
+Control,CNT,Initial,5
+Control,CNT,Initial,7
+Control,CNT,Initial,8
+Control,CNT,Initial,10
+D_Non-diabetic treated,NON_D_TRT,Initial,5
+D_Non-diabetic treated,NON_D_TRT,Initial,6
+D_Non-diabetic treated,NON_D_TRT,Initial,7
+D_Non-diabetic treated,NON_D_TRT,Initial,7.5
+Diabetic control,D_CNT,Initial,13
+Diabetic control,D_CNT,Initial,14
+Diabetic control,D_CNT,Initial,10
+Diabetic control,D_CNT,Initial,12.5
+Diabetic treated,D_TRT,Initial,23
+Diabetic treated,D_TRT,Initial,20.5
+Diabetic treated,D_TRT,Initial,22.5
+Diabetic treated,D_TRT,Initial,19.5
+Control,CNT,Final,8
+Control,CNT,Final,7.5
+Control,CNT,Final,10
+Control,CNT,Final,9
+D_Non-diabetic treated,NON_D_TRT,Final,8.5
+D_Non-diabetic treated,NON_D_TRT,Final,7
+D_Non-diabetic treated,NON_D_TRT,Final,8
+D_Non-diabetic treated,NON_D_TRT,Final,7.5
+Diabetic control,D_CNT,Final,16
+Diabetic control,D_CNT,Final,15
+Diabetic control,D_CNT,Final,13.5
+Diabetic control,D_CNT,Final,12.5
+Diabetic treated,D_TRT,Final,12
+Diabetic treated,D_TRT,Final,11.5
+Diabetic treated,D_TRT,Final,9.7
+Diabetic treated,D_TRT,Final,10.2
